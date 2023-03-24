@@ -1,11 +1,6 @@
 from setuptools import setup
-<<<<<<< HEAD
-#this is !!!
-
-=======
 
 # this is a single line comment
->>>>>>> copy
 # Requirements used for submodules
 plot = ['plotly>=4.0']
 hyperopt = [
